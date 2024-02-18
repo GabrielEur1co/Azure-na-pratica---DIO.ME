@@ -1,0 +1,34 @@
+//"day": Indica o dia do mês (1º dia neste caso).
+//"mnth": Representa o mês (janeiro neste caso, pois é o primeiro mês do ano).
+//"year": Especifica o ano (2022).
+//"season": Refere-se à estação (Estação 2, que pode corresponder a uma classificação específica de estação).
+//"holiday": Indica se é um feriado (0 significa que não é feriado).
+//"weekday": Representa o dia da semana (1 corresponde a segunda-feira).
+//"workingday": Indica se é um dia útil (1 significa que é).
+//"weathersit": Descreve a situação climática (2 pode corresponder a uma condição climática específica).
+//"temp": Representa a temperatura (0,3, que pode estar em Celsius ou Fahrenheit).
+//"atemp": Refere-se à temperatura aparente (também 0,3).
+//"hum": Representa a umidade (0,3).
+//"windspeed": Indica a velocidade do vento (0,3).
+
+{
+    "Inputs": { 
+      "data": [
+        {
+          "day": 1,
+          "mnth": 1,   
+          "year": 2022,
+          "season": 2,
+          "holiday": 0,
+          "weekday": 1,
+          "workingday": 1,
+          "weathersit": 2, 
+          "temp": 0.3, 
+          "atemp": 0.3,
+          "hum": 0.3,
+          "windspeed": 0.3 
+        }
+      ]    
+    },   
+    "GlobalParameters": 1.0
+  }
