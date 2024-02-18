@@ -8,3 +8,9 @@ Neste exercício,foi ultilizado o recurso de Machine Learning (Aprendizado de M�
 
 [Guia Azure - Rentals bikes](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html)
 
+
+## Finalidade 
+
+Esse ML é uma aprendizado supervisionado cuja a finalidade  é fazer uma predição com base em dados da quantidade de bicilcetas que seria necessario para época do ano pre estabelecida no aquivo .json, podendo ser ultilizado para fins de preparação das bicicletas nesse caso.  
+
+
