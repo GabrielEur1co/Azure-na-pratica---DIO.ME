@@ -1,5 +1,7 @@
 # Desafio Azure AI com Vision Studio
 
+Essa ferramenta nos oferece infinitas possibilidades. Ela já inclui o AIPS Rest, que possibilita a utilização da inteligência artificial para o reconhecimento de imagens e até mesmo para a descrição delas. Além disso, através da função OCR (Optical Character Recognition), é possível ler textos a partir de imagens, reconhecendo os caracteres e abrindo diversas oportunidades. Uma delas é a digitalização de documentos antigos para criar um enorme banco de dados.
+
 
 ## Objetivo
  
