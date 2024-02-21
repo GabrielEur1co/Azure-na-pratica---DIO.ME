@@ -1,0 +1,44 @@
+{
+    "documents": [
+        {
+            "id": "id__2832",
+            "sentiment": "negative",
+            "confidenceScores": {
+                "positive": 0.01,
+                "neutral": 0.03,
+                "negative": 0.96
+            },
+            "sentences": [
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0,
+                        "negative": 1
+                    },
+                    "offset": 0,
+                    "length": 16,
+                    "text": "Desrespeitosos. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.06,
+                        "negative": 0.93
+                    },
+                    "offset": 16,
+                    "length": 61,
+                    "text": "Comprometem-se a ir ao local, não vão, nem avisam que não vão",
+                    "targets": [],
+                    "assessments": []
+                }
+            ],
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2022-11-01"
+}

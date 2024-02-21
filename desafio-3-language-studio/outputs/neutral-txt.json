@@ -1,0 +1,31 @@
+{
+    "documents": [
+        {
+            "id": "id__2665",
+            "sentiment": "neutral",
+            "confidenceScores": {
+                "positive": 0.09,
+                "neutral": 0.91,
+                "negative": 0
+            },
+            "sentences": [
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.09,
+                        "neutral": 0.91,
+                        "negative": 0
+                    },
+                    "offset": 0,
+                    "length": 13,
+                    "text": "Hoje fez Sol!",
+                    "targets": [],
+                    "assessments": []
+                }
+            ],
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2022-11-01"
+}
