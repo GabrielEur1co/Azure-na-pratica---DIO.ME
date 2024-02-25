@@ -14,14 +14,14 @@ Prompt inserido:
          3 ideias de passeio em brasília
 
 Resultado:
-    ![print](desafio-5-Ai-Generative-Copilot/outputs/img1.jpg)
+    ![](/desafio-5-Ai-Generative-Copilot/outputs/img1.jpg)
 ### 2 - Crianado imagem 
 
 Prompt inserido:
 
          Cire uma imagem de uma casa na arvore
 
-Resultado:
+Resultado:![](/desafio-5-Ai-Generative-Copilot/outputs/img2.jpg)
            
 
 
@@ -33,4 +33,10 @@ Prompt:
 
 
 Resultado: 
+![](/desafio-5-Ai-Generative-Copilot/outputs/img3.jpg)
+
+
+## Documentação
+
+* [Microsotf Copilot](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/12-generative-ai.html)
 
