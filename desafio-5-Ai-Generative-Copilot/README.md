@@ -14,8 +14,7 @@ Prompt inserido:
          3 ideias de passeio em brasília
 
 Resultado:
-    <img scr= GabrielEur1co/Azure-na-pratica-DIO.ME/desafio-5-Ai-Generative-Copilot/outputs/img1.jpg>
-
+    ![print](desafio-5-Ai-Generative-Copilot/outputs/img1.jpg)
 ### 2 - Crianado imagem 
 
 Prompt inserido:
