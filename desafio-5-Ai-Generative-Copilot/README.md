@@ -14,7 +14,7 @@ Prompt inserido:
          3 ideias de passeio em brasília
 
 Resultado:
-    <img GabrielEur1co/Azure-na-pratica-DIO.ME/desafio-5-Ai-Generative-Copilot/outputs/img1.jpg >
+    <img scr= GabrielEur1co/Azure-na-pratica-DIO.ME/desafio-5-Ai-Generative-Copilot/outputs/img1.jpg>
 
 ### 2 - Crinado imagem 
 
@@ -23,7 +23,7 @@ Prompt inserido:
          Cire uma imagem de uma casa na arvore
 
 Resultado:
-    <img src= img2>         
+           
 
 
 
@@ -33,5 +33,5 @@ Prompt:
          Eu preciso criar a tabuada do 9 no phyton
 
 
-Resultado:
-    <img src= img3>
+Resultado: 
+
