@@ -16,7 +16,7 @@ Prompt inserido:
 Resultado:
     <img scr= GabrielEur1co/Azure-na-pratica-DIO.ME/desafio-5-Ai-Generative-Copilot/outputs/img1.jpg>
 
-### 2 - Crinado imagem 
+### 2 - Crianado imagem 
 
 Prompt inserido:
 
